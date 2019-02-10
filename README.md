@@ -7,7 +7,7 @@ http://codingvader.com/
 
 I edited the list of countries in order to get some practice working with strings and arrays.
 
-Thanks to @endrohat for the tutorial! 
+Thanks to @endrohat for the tutorial.
 
 
 ![alt text](https://user-images.githubusercontent.com/17273470/52533314-5ccc0500-2d32-11e9-8e01-c2f2f8eb5e33.png)
