@@ -1,11 +1,14 @@
-#iOS TableView Tutorial in swift
+# iOS TableView Tutorial in swift
 
-A simple list of countries built using the TableView widget in the view controller Scene
+## A simple list of countries built using the TableView widget in the view controller scene
 
-For this simple project, I followed this iOS TableView Tutorial in Swift:
+For this project, I followed the iOS TableView Tutorial in Swift:
 http://codingvader.com/ 
 
 I edited the list of countries in order to get some practice working with strings and arrays.
+
+Thanks to @endrohat for the tutorial! 
+
 
 ![alt text](https://user-images.githubusercontent.com/17273470/52533314-5ccc0500-2d32-11e9-8e01-c2f2f8eb5e33.png)
 
